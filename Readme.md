@@ -1,7 +1,6 @@
 ### Hola, soy José Sojo 👋
 Soy un desarrollador apasionado por el Backend y la infraestructura.
 
-- 🔭 Actualmente trabajando en: **Base-Nest-App**
 - 🚀 Enfoque principal: **Full Stack Development & DevOps**
 - 📫 Contáctame: josesojo2828@gmail.com
 
