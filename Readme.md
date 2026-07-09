@@ -10,7 +10,7 @@ Especialista en transformar la entropía técnica en ecosistemas de servidores e
 
 * 🚀 **Core Focus:** DevOps, Cloud Infrastructure, Observability & Automation (Go/Python).
 * 🏢 **Expertise:** Linux SysAdmin, Proxmox Virtualization, SaaS Architecture & Event-Driven Systems.
-* 🌐 **Agency:** [quanticarch.com](https://quanticarch.com) — *Founder & Lead Architect*
+* 🌐 **Agency:** [[quanticarch.com](https://quanticarch.com)](https://www.quanticarch.com/) — *Founder & Lead Architect*
 * 💼 **LinkedIn:** [jose-sojo-14899b380](https://www.linkedin.com/in/jose-sojo-14899b380/)
 * 📧 **Direct:** josesojo2828@gmail.com
 
@@ -51,9 +51,6 @@ Especialista en transformar la entropía técnica en ecosistemas de servidores e
 
 ### 🛰️ Connect with the Architect
 <div align="center">
-  <a href="https://jsojo-porfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/jose-sojo-14899b380/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
